@@ -1,0 +1,1 @@
+void statistic_module();
